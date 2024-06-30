@@ -1,9 +1,0 @@
-streamlit
-fileupload
-pandas
-matplotlib
-numpy
-joblib
-datetime
-scikit-learn
-tensorflow
