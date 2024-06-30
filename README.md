@@ -131,6 +131,8 @@ Move to Analyse section.
 
 Enter desired year and month and click "Submit" once.
 
+##Note:- Support files are pure python files to test the application in the terminal
+
 Wait for couple of seconds.
 
 Then click Display Analysis, and you will get your analytics.
